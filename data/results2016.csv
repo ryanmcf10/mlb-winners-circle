@@ -1,0 +1,901 @@
+team,opponent,wins
+D-backs,D-backs,0
+D-backs,Giants,6
+D-backs,Braves,5
+D-backs,Mets,5
+D-backs,Orioles,0
+D-backs,Blue Jays,1
+D-backs,Red Sox,0
+D-backs,Pirates,1
+D-backs,Cubs,2
+D-backs,Cardinals,4
+D-backs,White Sox,0
+D-backs,Tigers,0
+D-backs,Reds,3
+D-backs,Phillies,4
+D-backs,Indians,0
+D-backs,Rangers,0
+D-backs,Rockies,10
+D-backs,Brewers,3
+D-backs,Astros,1
+D-backs,Mariners,0
+D-backs,Angels,0
+D-backs,Athletics,0
+D-backs,Yankees,2
+D-backs,Rays,1
+D-backs,Twins,0
+D-backs,Royals,0
+D-backs,Marlins,2
+D-backs,Nationals,2
+D-backs,Padres,10
+D-backs,Dodgers,7
+Giants,D-backs,13
+Giants,Giants,0
+Giants,Braves,4
+Giants,Mets,4
+Giants,Orioles,1
+Giants,Blue Jays,1
+Giants,Red Sox,1
+Giants,Pirates,3
+Giants,Cubs,4
+Giants,Cardinals,3
+Giants,White Sox,0
+Giants,Tigers,0
+Giants,Reds,3
+Giants,Phillies,3
+Giants,Indians,0
+Giants,Rangers,0
+Giants,Rockies,10
+Giants,Brewers,5
+Giants,Astros,0
+Giants,Mariners,0
+Giants,Angels,0
+Giants,Athletics,1
+Giants,Yankees,1
+Giants,Rays,3
+Giants,Twins,0
+Giants,Royals,0
+Giants,Marlins,4
+Giants,Nationals,3
+Giants,Padres,11
+Giants,Dodgers,11
+Braves,D-backs,2
+Braves,Giants,3
+Braves,Braves,0
+Braves,Mets,10
+Braves,Orioles,0
+Braves,Blue Jays,0
+Braves,Red Sox,1
+Braves,Pirates,3
+Braves,Cubs,3
+Braves,Cardinals,2
+Braves,White Sox,2
+Braves,Tigers,2
+Braves,Reds,3
+Braves,Phillies,11
+Braves,Indians,0
+Braves,Rangers,0
+Braves,Rockies,1
+Braves,Brewers,2
+Braves,Astros,0
+Braves,Mariners,0
+Braves,Angels,0
+Braves,Athletics,0
+Braves,Yankees,0
+Braves,Rays,0
+Braves,Twins,2
+Braves,Royals,1
+Braves,Marlins,11
+Braves,Nationals,4
+Braves,Padres,4
+Braves,Dodgers,1
+Mets,D-backs,1
+Mets,Giants,4
+Mets,Braves,9
+Mets,Mets,0
+Mets,Orioles,0
+Mets,Blue Jays,0
+Mets,Red Sox,0
+Mets,Pirates,3
+Mets,Cubs,5
+Mets,Cardinals,3
+Mets,White Sox,1
+Mets,Tigers,1
+Mets,Reds,6
+Mets,Phillies,12
+Mets,Indians,2
+Mets,Rangers,0
+Mets,Rockies,1
+Mets,Brewers,5
+Mets,Astros,0
+Mets,Mariners,0
+Mets,Angels,0
+Mets,Athletics,0
+Mets,Yankees,2
+Mets,Rays,0
+Mets,Twins,3
+Mets,Royals,3
+Mets,Marlins,12
+Mets,Nationals,7
+Mets,Padres,4
+Mets,Dodgers,3
+Orioles,D-backs,3
+Orioles,Giants,2
+Orioles,Braves,0
+Orioles,Mets,0
+Orioles,Orioles,0
+Orioles,Blue Jays,9
+Orioles,Red Sox,8
+Orioles,Pirates,0
+Orioles,Cubs,0
+Orioles,Cardinals,0
+Orioles,White Sox,4
+Orioles,Tigers,5
+Orioles,Reds,0
+Orioles,Phillies,0
+Orioles,Indians,5
+Orioles,Rangers,3
+Orioles,Rockies,1
+Orioles,Brewers,0
+Orioles,Astros,1
+Orioles,Mariners,1
+Orioles,Angels,4
+Orioles,Athletics,3
+Orioles,Yankees,10
+Orioles,Rays,13
+Orioles,Twins,5
+Orioles,Royals,4
+Orioles,Marlins,0
+Orioles,Nationals,3
+Orioles,Padres,3
+Orioles,Dodgers,2
+Blue Jays,D-backs,3
+Blue Jays,Giants,2
+Blue Jays,Braves,0
+Blue Jays,Mets,0
+Blue Jays,Orioles,11
+Blue Jays,Blue Jays,0
+Blue Jays,Red Sox,10
+Blue Jays,Pirates,0
+Blue Jays,Cubs,0
+Blue Jays,Cardinals,0
+Blue Jays,White Sox,1
+Blue Jays,Tigers,4
+Blue Jays,Reds,0
+Blue Jays,Phillies,3
+Blue Jays,Indians,4
+Blue Jays,Rangers,7
+Blue Jays,Rockies,2
+Blue Jays,Brewers,0
+Blue Jays,Astros,5
+Blue Jays,Mariners,3
+Blue Jays,Angels,3
+Blue Jays,Athletics,3
+Blue Jays,Yankees,12
+Blue Jays,Rays,8
+Blue Jays,Twins,6
+Blue Jays,Royals,4
+Blue Jays,Marlins,0
+Blue Jays,Nationals,0
+Blue Jays,Padres,2
+Blue Jays,Dodgers,1
+Red Sox,D-backs,3
+Red Sox,Giants,3
+Red Sox,Braves,3
+Red Sox,Mets,0
+Red Sox,Orioles,11
+Red Sox,Blue Jays,9
+Red Sox,Red Sox,0
+Red Sox,Pirates,0
+Red Sox,Cubs,0
+Red Sox,Cardinals,0
+Red Sox,White Sox,3
+Red Sox,Tigers,2
+Red Sox,Reds,0
+Red Sox,Phillies,0
+Red Sox,Indians,4
+Red Sox,Rangers,3
+Red Sox,Rockies,2
+Red Sox,Brewers,0
+Red Sox,Astros,5
+Red Sox,Mariners,4
+Red Sox,Angels,4
+Red Sox,Athletics,5
+Red Sox,Yankees,11
+Red Sox,Rays,12
+Red Sox,Twins,4
+Red Sox,Royals,2
+Red Sox,Marlins,0
+Red Sox,Nationals,0
+Red Sox,Padres,2
+Red Sox,Dodgers,1
+Pirates,D-backs,5
+Pirates,Giants,4
+Pirates,Braves,4
+Pirates,Mets,3
+Pirates,Orioles,0
+Pirates,Blue Jays,0
+Pirates,Red Sox,0
+Pirates,Pirates,0
+Pirates,Cubs,4
+Pirates,Cardinals,9
+Pirates,White Sox,0
+Pirates,Tigers,1
+Pirates,Reds,10
+Pirates,Phillies,4
+Pirates,Indians,0
+Pirates,Rangers,1
+Pirates,Rockies,5
+Pirates,Brewers,10
+Pirates,Astros,1
+Pirates,Mariners,2
+Pirates,Angels,1
+Pirates,Athletics,3
+Pirates,Yankees,0
+Pirates,Rays,0
+Pirates,Twins,0
+Pirates,Royals,0
+Pirates,Marlins,1
+Pirates,Nationals,2
+Pirates,Padres,3
+Pirates,Dodgers,5
+Cubs,D-backs,5
+Cubs,Giants,7
+Cubs,Braves,3
+Cubs,Mets,2
+Cubs,Orioles,0
+Cubs,Blue Jays,0
+Cubs,Red Sox,0
+Cubs,Pirates,14
+Cubs,Cubs,0
+Cubs,Cardinals,10
+Cubs,White Sox,2
+Cubs,Tigers,0
+Cubs,Reds,15
+Cubs,Phillies,5
+Cubs,Indians,4
+Cubs,Rangers,2
+Cubs,Rockies,2
+Cubs,Brewers,11
+Cubs,Astros,2
+Cubs,Mariners,2
+Cubs,Angels,4
+Cubs,Athletics,3
+Cubs,Yankees,0
+Cubs,Rays,0
+Cubs,Twins,0
+Cubs,Royals,0
+Cubs,Marlins,4
+Cubs,Nationals,5
+Cubs,Padres,4
+Cubs,Dodgers,8
+Cardinals,D-backs,3
+Cardinals,Giants,4
+Cardinals,Braves,4
+Cardinals,Mets,3
+Cardinals,Orioles,0
+Cardinals,Blue Jays,0
+Cardinals,Red Sox,0
+Cardinals,Pirates,10
+Cardinals,Cubs,9
+Cardinals,Cardinals,0
+Cardinals,White Sox,0
+Cardinals,Tigers,0
+Cardinals,Reds,10
+Cardinals,Phillies,5
+Cardinals,Indians,0
+Cardinals,Rangers,0
+Cardinals,Rockies,4
+Cardinals,Brewers,13
+Cardinals,Astros,2
+Cardinals,Mariners,1
+Cardinals,Angels,3
+Cardinals,Athletics,1
+Cardinals,Yankees,0
+Cardinals,Rays,0
+Cardinals,Twins,0
+Cardinals,Royals,1
+Cardinals,Marlins,3
+Cardinals,Nationals,2
+Cardinals,Padres,6
+Cardinals,Dodgers,2
+White Sox,D-backs,0
+White Sox,Giants,0
+White Sox,Braves,1
+White Sox,Mets,2
+White Sox,Orioles,3
+White Sox,Blue Jays,5
+White Sox,Red Sox,4
+White Sox,Pirates,0
+White Sox,Cubs,2
+White Sox,Cardinals,0
+White Sox,White Sox,0
+White Sox,Tigers,8
+White Sox,Reds,0
+White Sox,Phillies,1
+White Sox,Indians,8
+White Sox,Rangers,4
+White Sox,Rockies,0
+White Sox,Brewers,0
+White Sox,Astros,3
+White Sox,Mariners,4
+White Sox,Angels,2
+White Sox,Athletics,5
+White Sox,Yankees,3
+White Sox,Rays,4
+White Sox,Twins,12
+White Sox,Royals,5
+White Sox,Marlins,2
+White Sox,Nationals,1
+White Sox,Padres,0
+White Sox,Dodgers,0
+Tigers,D-backs,0
+Tigers,Giants,0
+Tigers,Braves,1
+Tigers,Mets,2
+Tigers,Orioles,2
+Tigers,Blue Jays,3
+Tigers,Red Sox,5
+Tigers,Pirates,3
+Tigers,Cubs,0
+Tigers,Cardinals,0
+Tigers,White Sox,12
+Tigers,Tigers,0
+Tigers,Reds,0
+Tigers,Phillies,2
+Tigers,Indians,4
+Tigers,Rangers,2
+Tigers,Rockies,0
+Tigers,Brewers,0
+Tigers,Astros,4
+Tigers,Mariners,4
+Tigers,Angels,2
+Tigers,Athletics,4
+Tigers,Yankees,3
+Tigers,Rays,6
+Tigers,Twins,15
+Tigers,Royals,7
+Tigers,Marlins,4
+Tigers,Nationals,1
+Tigers,Padres,0
+Tigers,Dodgers,0
+Reds,D-backs,3
+Reds,Giants,3
+Reds,Braves,4
+Reds,Mets,0
+Reds,Orioles,0
+Reds,Blue Jays,0
+Reds,Red Sox,0
+Reds,Pirates,9
+Reds,Cubs,4
+Reds,Cardinals,9
+Reds,White Sox,0
+Reds,Tigers,0
+Reds,Reds,0
+Reds,Phillies,4
+Reds,Indians,0
+Reds,Rangers,2
+Reds,Rockies,5
+Reds,Brewers,11
+Reds,Astros,1
+Reds,Mariners,0
+Reds,Angels,0
+Reds,Athletics,2
+Reds,Yankees,0
+Reds,Rays,0
+Reds,Twins,0
+Reds,Royals,0
+Reds,Marlins,3
+Reds,Nationals,3
+Reds,Padres,3
+Reds,Dodgers,2
+Phillies,D-backs,3
+Phillies,Giants,3
+Phillies,Braves,8
+Phillies,Mets,7
+Phillies,Orioles,0
+Phillies,Blue Jays,1
+Phillies,Red Sox,0
+Phillies,Pirates,3
+Phillies,Cubs,1
+Phillies,Cardinals,2
+Phillies,White Sox,3
+Phillies,Tigers,1
+Phillies,Reds,2
+Phillies,Phillies,0
+Phillies,Indians,3
+Phillies,Rangers,0
+Phillies,Rockies,5
+Phillies,Brewers,4
+Phillies,Astros,0
+Phillies,Mariners,0
+Phillies,Angels,0
+Phillies,Athletics,0
+Phillies,Yankees,0
+Phillies,Rays,0
+Phillies,Twins,1
+Phillies,Royals,2
+Phillies,Marlins,10
+Phillies,Nationals,5
+Phillies,Padres,5
+Phillies,Dodgers,2
+Indians,D-backs,0
+Indians,Giants,0
+Indians,Braves,3
+Indians,Mets,1
+Indians,Orioles,1
+Indians,Blue Jays,8
+Indians,Red Sox,5
+Indians,Pirates,0
+Indians,Cubs,3
+Indians,Cardinals,0
+Indians,White Sox,11
+Indians,Tigers,14
+Indians,Reds,4
+Indians,Phillies,0
+Indians,Indians,0
+Indians,Rangers,2
+Indians,Rockies,0
+Indians,Brewers,0
+Indians,Astros,3
+Indians,Mariners,3
+Indians,Angels,6
+Indians,Athletics,4
+Indians,Yankees,2
+Indians,Rays,5
+Indians,Twins,10
+Indians,Royals,14
+Indians,Marlins,3
+Indians,Nationals,2
+Indians,Padres,0
+Indians,Dodgers,0
+Rangers,D-backs,0
+Rangers,Giants,0
+Rangers,Braves,0
+Rangers,Mets,0
+Rangers,Orioles,4
+Rangers,Blue Jays,3
+Rangers,Red Sox,3
+Rangers,Pirates,2
+Rangers,Cubs,1
+Rangers,Cardinals,3
+Rangers,White Sox,2
+Rangers,Tigers,4
+Rangers,Reds,2
+Rangers,Phillies,0
+Rangers,Indians,5
+Rangers,Rangers,0
+Rangers,Rockies,3
+Rangers,Brewers,2
+Rangers,Astros,15
+Rangers,Mariners,12
+Rangers,Angels,10
+Rangers,Athletics,10
+Rangers,Yankees,4
+Rangers,Rays,2
+Rangers,Twins,2
+Rangers,Royals,6
+Rangers,Marlins,0
+Rangers,Nationals,0
+Rangers,Padres,0
+Rangers,Dodgers,0
+Rockies,D-backs,9
+Rockies,Giants,9
+Rockies,Braves,6
+Rockies,Mets,6
+Rockies,Orioles,2
+Rockies,Blue Jays,1
+Rockies,Red Sox,1
+Rockies,Pirates,2
+Rockies,Cubs,4
+Rockies,Cardinals,2
+Rockies,White Sox,0
+Rockies,Tigers,0
+Rockies,Reds,2
+Rockies,Phillies,2
+Rockies,Indians,0
+Rockies,Rangers,1
+Rockies,Rockies,0
+Rockies,Brewers,1
+Rockies,Astros,0
+Rockies,Mariners,0
+Rockies,Angels,0
+Rockies,Athletics,0
+Rockies,Yankees,3
+Rockies,Rays,1
+Rockies,Twins,0
+Rockies,Royals,0
+Rockies,Marlins,2
+Rockies,Nationals,4
+Rockies,Padres,10
+Rockies,Dodgers,7
+Brewers,D-backs,4
+Brewers,Giants,1
+Brewers,Braves,5
+Brewers,Mets,2
+Brewers,Orioles,0
+Brewers,Blue Jays,0
+Brewers,Red Sox,0
+Brewers,Pirates,9
+Brewers,Cubs,8
+Brewers,Cardinals,6
+Brewers,White Sox,0
+Brewers,Tigers,0
+Brewers,Reds,8
+Brewers,Phillies,3
+Brewers,Indians,0
+Brewers,Rangers,1
+Brewers,Rockies,5
+Brewers,Brewers,0
+Brewers,Astros,2
+Brewers,Mariners,1
+Brewers,Angels,2
+Brewers,Athletics,3
+Brewers,Yankees,0
+Brewers,Rays,0
+Brewers,Twins,2
+Brewers,Royals,0
+Brewers,Marlins,2
+Brewers,Nationals,4
+Brewers,Padres,3
+Brewers,Dodgers,2
+Astros,D-backs,3
+Astros,Giants,0
+Astros,Braves,0
+Astros,Mets,0
+Astros,Orioles,6
+Astros,Blue Jays,2
+Astros,Red Sox,2
+Astros,Pirates,2
+Astros,Cubs,1
+Astros,Cardinals,2
+Astros,White Sox,3
+Astros,Tigers,2
+Astros,Reds,2
+Astros,Phillies,0
+Astros,Indians,4
+Astros,Rangers,4
+Astros,Rockies,0
+Astros,Brewers,1
+Astros,Astros,0
+Astros,Mariners,11
+Astros,Angels,13
+Astros,Athletics,13
+Astros,Yankees,2
+Astros,Rays,3
+Astros,Twins,5
+Astros,Royals,3
+Astros,Marlins,0
+Astros,Nationals,0
+Astros,Padres,0
+Astros,Dodgers,0
+Mariners,D-backs,0
+Mariners,Giants,0
+Mariners,Braves,0
+Mariners,Mets,0
+Mariners,Orioles,6
+Mariners,Blue Jays,3
+Mariners,Red Sox,3
+Mariners,Pirates,2
+Mariners,Cubs,1
+Mariners,Cardinals,2
+Mariners,White Sox,3
+Mariners,Tigers,3
+Mariners,Reds,3
+Mariners,Phillies,0
+Mariners,Indians,4
+Mariners,Rangers,7
+Mariners,Rockies,0
+Mariners,Brewers,2
+Mariners,Astros,8
+Mariners,Mariners,0
+Mariners,Angels,11
+Mariners,Athletics,12
+Mariners,Yankees,3
+Mariners,Rays,4
+Mariners,Twins,2
+Mariners,Royals,4
+Mariners,Marlins,0
+Mariners,Nationals,0
+Mariners,Padres,3
+Mariners,Dodgers,0
+Angels,D-backs,0
+Angels,Giants,0
+Angels,Braves,0
+Angels,Mets,0
+Angels,Orioles,2
+Angels,Blue Jays,4
+Angels,Red Sox,3
+Angels,Pirates,2
+Angels,Cubs,1
+Angels,Cardinals,0
+Angels,White Sox,5
+Angels,Tigers,4
+Angels,Reds,3
+Angels,Phillies,0
+Angels,Indians,1
+Angels,Rangers,9
+Angels,Rockies,0
+Angels,Brewers,1
+Angels,Astros,6
+Angels,Mariners,8
+Angels,Angels,0
+Angels,Athletics,12
+Angels,Yankees,1
+Angels,Rays,3
+Angels,Twins,2
+Angels,Royals,5
+Angels,Marlins,0
+Angels,Nationals,0
+Angels,Padres,0
+Angels,Dodgers,3
+Athletics,D-backs,0
+Athletics,Giants,3
+Athletics,Braves,0
+Athletics,Mets,0
+Athletics,Orioles,4
+Athletics,Blue Jays,3
+Athletics,Red Sox,1
+Athletics,Pirates,0
+Athletics,Cubs,0
+Athletics,Cardinals,2
+Athletics,White Sox,2
+Athletics,Tigers,3
+Athletics,Reds,1
+Athletics,Phillies,0
+Athletics,Indians,2
+Athletics,Rangers,9
+Athletics,Rockies,0
+Athletics,Brewers,1
+Athletics,Astros,6
+Athletics,Mariners,7
+Athletics,Angels,7
+Athletics,Athletics,0
+Athletics,Yankees,3
+Athletics,Rays,5
+Athletics,Twins,4
+Athletics,Royals,6
+Athletics,Marlins,0
+Athletics,Nationals,0
+Athletics,Padres,0
+Athletics,Dodgers,0
+Yankees,D-backs,1
+Yankees,Giants,2
+Yankees,Braves,0
+Yankees,Mets,2
+Yankees,Orioles,9
+Yankees,Blue Jays,7
+Yankees,Red Sox,8
+Yankees,Pirates,0
+Yankees,Cubs,0
+Yankees,Cardinals,0
+Yankees,White Sox,3
+Yankees,Tigers,3
+Yankees,Reds,0
+Yankees,Phillies,0
+Yankees,Indians,5
+Yankees,Rangers,3
+Yankees,Rockies,1
+Yankees,Brewers,0
+Yankees,Astros,4
+Yankees,Mariners,3
+Yankees,Angels,6
+Yankees,Athletics,4
+Yankees,Yankees,0
+Yankees,Rays,11
+Yankees,Twins,5
+Yankees,Royals,5
+Yankees,Marlins,0
+Yankees,Nationals,0
+Yankees,Padres,1
+Yankees,Dodgers,1
+Rays,D-backs,2
+Rays,Giants,0
+Rays,Braves,0
+Rays,Mets,0
+Rays,Orioles,6
+Rays,Blue Jays,11
+Rays,Red Sox,7
+Rays,Pirates,0
+Rays,Cubs,0
+Rays,Cardinals,0
+Rays,White Sox,3
+Rays,Tigers,1
+Rays,Reds,0
+Rays,Phillies,0
+Rays,Indians,1
+Rays,Rangers,4
+Rays,Rockies,2
+Rays,Brewers,0
+Rays,Astros,3
+Rays,Mariners,2
+Rays,Angels,4
+Rays,Athletics,2
+Rays,Yankees,8
+Rays,Rays,0
+Rays,Twins,4
+Rays,Royals,2
+Rays,Marlins,1
+Rays,Nationals,0
+Rays,Padres,3
+Rays,Dodgers,2
+Twins,D-backs,0
+Twins,Giants,0
+Twins,Braves,2
+Twins,Mets,0
+Twins,Orioles,1
+Twins,Blue Jays,1
+Twins,Red Sox,3
+Twins,Pirates,0
+Twins,Cubs,0
+Twins,Cardinals,0
+Twins,White Sox,7
+Twins,Tigers,4
+Twins,Reds,0
+Twins,Phillies,2
+Twins,Indians,9
+Twins,Rangers,5
+Twins,Rockies,0
+Twins,Brewers,2
+Twins,Astros,2
+Twins,Mariners,4
+Twins,Angels,4
+Twins,Athletics,2
+Twins,Yankees,2
+Twins,Rays,3
+Twins,Twins,0
+Twins,Royals,4
+Twins,Marlins,2
+Twins,Nationals,0
+Twins,Padres,0
+Twins,Dodgers,0
+Royals,D-backs,0
+Royals,Giants,0
+Royals,Braves,2
+Royals,Mets,1
+Royals,Orioles,2
+Royals,Blue Jays,2
+Royals,Red Sox,4
+Royals,Pirates,0
+Royals,Cubs,0
+Royals,Cardinals,3
+Royals,White Sox,14
+Royals,Tigers,12
+Royals,Reds,0
+Royals,Phillies,1
+Royals,Indians,5
+Royals,Rangers,1
+Royals,Rockies,0
+Royals,Brewers,0
+Royals,Astros,4
+Royals,Mariners,3
+Royals,Angels,1
+Royals,Athletics,1
+Royals,Yankees,2
+Royals,Rays,5
+Royals,Twins,15
+Royals,Royals,0
+Royals,Marlins,2
+Royals,Nationals,1
+Royals,Padres,0
+Royals,Dodgers,0
+Marlins,D-backs,4
+Marlins,Giants,2
+Marlins,Braves,7
+Marlins,Mets,7
+Marlins,Orioles,0
+Marlins,Blue Jays,0
+Marlins,Red Sox,0
+Marlins,Pirates,6
+Marlins,Cubs,3
+Marlins,Cardinals,4
+Marlins,White Sox,1
+Marlins,Tigers,0
+Marlins,Reds,4
+Marlins,Phillies,9
+Marlins,Indians,0
+Marlins,Rangers,0
+Marlins,Rockies,5
+Marlins,Brewers,4
+Marlins,Astros,0
+Marlins,Mariners,0
+Marlins,Angels,0
+Marlins,Athletics,0
+Marlins,Yankees,0
+Marlins,Rays,3
+Marlins,Twins,1
+Marlins,Royals,1
+Marlins,Marlins,0
+Marlins,Nationals,9
+Marlins,Padres,3
+Marlins,Dodgers,6
+Nationals,D-backs,5
+Nationals,Giants,4
+Nationals,Braves,15
+Nationals,Mets,12
+Nationals,Orioles,1
+Nationals,Blue Jays,0
+Nationals,Red Sox,0
+Nationals,Pirates,4
+Nationals,Cubs,2
+Nationals,Cardinals,5
+Nationals,White Sox,2
+Nationals,Tigers,2
+Nationals,Reds,4
+Nationals,Phillies,14
+Nationals,Indians,2
+Nationals,Rangers,0
+Nationals,Rockies,2
+Nationals,Brewers,2
+Nationals,Astros,0
+Nationals,Mariners,0
+Nationals,Angels,0
+Nationals,Athletics,0
+Nationals,Yankees,0
+Nationals,Rays,0
+Nationals,Twins,3
+Nationals,Royals,2
+Nationals,Marlins,10
+Nationals,Nationals,0
+Nationals,Padres,3
+Nationals,Dodgers,3
+Padres,D-backs,9
+Padres,Giants,8
+Padres,Braves,2
+Padres,Mets,3
+Padres,Orioles,1
+Padres,Blue Jays,1
+Padres,Red Sox,1
+Padres,Pirates,3
+Padres,Cubs,2
+Padres,Cardinals,1
+Padres,White Sox,0
+Padres,Tigers,0
+Padres,Reds,4
+Padres,Phillies,2
+Padres,Indians,0
+Padres,Rangers,0
+Padres,Rockies,9
+Padres,Brewers,4
+Padres,Astros,0
+Padres,Mariners,1
+Padres,Angels,0
+Padres,Athletics,0
+Padres,Yankees,2
+Padres,Rays,0
+Padres,Twins,0
+Padres,Royals,0
+Padres,Marlins,3
+Padres,Nationals,4
+Padres,Padres,0
+Padres,Dodgers,8
+Dodgers,D-backs,12
+Dodgers,Giants,8
+Dodgers,Braves,5
+Dodgers,Mets,4
+Dodgers,Orioles,1
+Dodgers,Blue Jays,2
+Dodgers,Red Sox,2
+Dodgers,Pirates,2
+Dodgers,Cubs,5
+Dodgers,Cardinals,4
+Dodgers,White Sox,0
+Dodgers,Tigers,0
+Dodgers,Reds,5
+Dodgers,Phillies,4
+Dodgers,Indians,0
+Dodgers,Rangers,0
+Dodgers,Rockies,12
+Dodgers,Brewers,5
+Dodgers,Astros,0
+Dodgers,Mariners,0
+Dodgers,Angels,1
+Dodgers,Athletics,0
+Dodgers,Yankees,2
+Dodgers,Rays,2
+Dodgers,Twins,0
+Dodgers,Royals,0
+Dodgers,Marlins,1
+Dodgers,Nationals,8
+Dodgers,Padres,11
+Dodgers,Dodgers,0
